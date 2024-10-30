@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
+	// freopen("input.txt", "r", stdin);
+	// freopen("output.txt", "w", stdout);
 
 	// The ASCII value for the lowercase letter "c" is 99
 	// cout << 'c' + 1 << endl;  // 100
@@ -81,9 +81,9 @@ int main() {
 
 	// Solve:
 
-	// int l, b;
-	// cin >> l >> b;
-	// cout << l * 1LL * b << endl;
+	int l, b;
+	cin >> l >> b;
+	cout << l * 1LL * b << endl;
 
 }
 
