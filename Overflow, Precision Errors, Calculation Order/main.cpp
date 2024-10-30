@@ -81,9 +81,9 @@ int main() {
 
 	// Solve:
 
-	int l, b;
-	cin >> l >> b;
-	cout << l * 1LL * b << endl;
+	// int l, b;
+	// cin >> l >> b;
+	// cout << l * 1LL * b << endl;
 
 }
 
